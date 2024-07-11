@@ -1,3 +1,3 @@
  # Charan_repo-
 this is my first repo
-Author - charanjot singh
+Author - charanjot singh juneja
